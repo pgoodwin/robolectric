@@ -23,6 +23,8 @@
          -->
     <property file="build.properties"/>
 
+    <!-- a bogus change for experimental purposes -->
+
     <!-- The default.properties file is created and updated by the 'android' tool, as well
          as ADT.
          This file is an integral part of the build system for your application and
